@@ -1,0 +1,44 @@
+[
+  {
+    "frame": 156,
+    "drawn_ml": 0.48,
+    "syringe_after_ml": 0.48,
+    "reservoir_after_ml": 4.32
+  },
+  {
+    "frame": 773,
+    "drawn_ml": 0.4,
+    "syringe_after_ml": 0.48,
+    "reservoir_after_ml": 3.9200000000000004
+  },
+  {
+    "frame": 1380,
+    "drawn_ml": 0.48,
+    "syringe_after_ml": 0.48,
+    "reservoir_after_ml": 3.4400000000000004
+  },
+  {
+    "frame": 1971,
+    "drawn_ml": 0.4,
+    "syringe_after_ml": 0.48,
+    "reservoir_after_ml": 3.0400000000000005
+  },
+  {
+    "frame": 2555,
+    "drawn_ml": 0.44000000000000006,
+    "syringe_after_ml": 0.48,
+    "reservoir_after_ml": 2.6000000000000005
+  },
+  {
+    "frame": 3146,
+    "drawn_ml": 0.44000000000000006,
+    "syringe_after_ml": 0.48,
+    "reservoir_after_ml": 2.1600000000000006
+  },
+  {
+    "frame": 3753,
+    "drawn_ml": 0.36,
+    "syringe_after_ml": 0.48,
+    "reservoir_after_ml": 1.8000000000000007
+  }
+]

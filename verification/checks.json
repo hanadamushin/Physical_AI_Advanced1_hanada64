@@ -1,0 +1,26 @@
+[
+  {
+    "electrodes": 16,
+    "seed": 42,
+    "passed": true,
+    "visits": 20
+  },
+  {
+    "electrodes": 16,
+    "seed": 43,
+    "passed": true,
+    "visits": 20
+  },
+  {
+    "electrodes": 32,
+    "seed": 42,
+    "passed": true,
+    "visits": 40
+  },
+  {
+    "electrodes": 16,
+    "all_initially_high": true,
+    "passed": true,
+    "visits": 28
+  }
+]
